@@ -25,7 +25,3 @@ Faça um commit inicial:
 git commit -m "Project created"
 Envie as alterações para o GitHub:
 git push -u origin master
-Implementação das Entidades
-Classe Department
-Checklist:
-
